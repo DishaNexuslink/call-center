@@ -1,0 +1,11 @@
+
+
+python-dotenv
+uvicorn
+fastapi
+pip install llama-index
+pip install python-multipart
+pip install sentence-transformers
+pip install qdrant-client
+pip install faster-whisper
+pip install streamlit
